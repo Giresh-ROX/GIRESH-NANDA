@@ -1,25 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to MY Page
 
-You can use the [editor on GitHub](https://github.com/Giresh-ROX/GIRESH-NANDA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+my name is giresh nanda 
+follow me in instagram as " giresh.rox "
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Marvel
 
-### Markdown
+The Marvel Cinematic Universe is an American media franchise and shared universe centered on a series of superhero films produced by Marvel Studios. The films are based on characters that appear in American comic books published by Marvel Comics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some important charecters are
 
-```markdown
-Syntax highlighted code block
+# Spyder Man
+## Mighty THOR
+### Captain America
 
-# Header 1
-## Header 2
-### Header 3
+- www.samayalarai.com
+- www.adupangarai.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Number ONE - 1
+2. Number TWO - 2
 
 **Bold** and _Italic_ and `Code` text
 
