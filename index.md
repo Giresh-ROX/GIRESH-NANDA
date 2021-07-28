@@ -1,31 +1,27 @@
 ## Welcome to MY Page
 
 my name is giresh nanda 
-follow me in instagram as " giresh.rox "
+follow me in instagram as "[ giresh.rox ]"(https://www.instagram.com/giresh.rox/?hl=en)
 
 ### Marvel
 
 The Marvel Cinematic Universe is an American media franchise and shared universe centered on a series of superhero films produced by Marvel Studios. The films are based on characters that appear in American comic books published by Marvel Comics.
 
-Some important charecters are
+## Some important charecters are
 
-# Spyder Man
-## Mighty THOR
+### Spyder Man
+### Mighty THOR
 ### Captain America
 
-- www.samayalarai.com
-- www.adupangarai.com
+cooking
+- [samayalarai](www.samayalarai.com)
+- [adupangarai](www.adupangarai.com)
 
 1. Number ONE - 1
 2. Number TWO - 2
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Giresh-ROX/GIRESH-NANDA/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
