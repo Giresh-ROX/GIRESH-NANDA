@@ -1,7 +1,7 @@
 ## Welcome to MY Page
 
 my name is giresh nanda 
-follow me in instagram as "[ giresh.rox ]"(https://www.instagram.com/giresh.rox/?hl=en)
+follow me in instagram as [ giresh.rox ](https://www.instagram.com/giresh.rox/?hl=en)
 
 ### Marvel
 
